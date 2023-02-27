@@ -3,11 +3,11 @@ body {
   width: 100%;
   min-height: 100vh;
 }
-  
+
 .container {
   width: 100%;
 }
-  
+
 table {
   margin: auto;
   border: 2px black solid;
